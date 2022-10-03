@@ -78,7 +78,8 @@ Layout/ClassStructure:
         - private_methods
 
 Layout/IndentationWidth:
-    Width: 2
+    #5 Space indentations
+    Width: 5
 
 Layout/EmptyLineAfterMultilineCondition:
     Enabled: true
