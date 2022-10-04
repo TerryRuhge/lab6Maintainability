@@ -303,6 +303,27 @@ Naming/InclusiveLanguage: # (new in 1.18)
 Naming/PredicateName:
   Enabled: true
 
+
+#Lab 6 Changes ##############################
+Naming/ClassAndModuleCamelCase:
+  Enabled: true
+  
+Naming/MethodName:
+  Enabled: true
+  EnforcedStyle: camelCase
+
+Naming/ClassName:
+  Enabled: true
+
+Naming/VariableName:
+  Enabled: true
+  EnforcedStyle: snake_case
+
+Naming/VariableNumber:
+  CheckSymbols: true
+  EnforcedStyle: snake_case
+###################################################
+
 ###########################################################
 ######################## Style ############################
 ###########################################################
